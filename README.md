@@ -1,2 +1,1 @@
-# hexlet-my-first-workflow-
-Использование CI
+hexlet-my-first-workflow
